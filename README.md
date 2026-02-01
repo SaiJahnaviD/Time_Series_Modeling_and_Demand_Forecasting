@@ -3,6 +3,7 @@
 
 A project for exploring the exciting field of time series forecasting by working with a real-world dataset. Time series data is prevalent in various domains, including finance, economics, weather forecasting, and more. You will be responsible for collecting and preprocessing your dataset, building a time series model, and evaluating its performance.
 
+<img src="time_series.png" width="100%" />
 
 ## Dataset Selection
 For this time series forecasting assignment, I have chosen to conduct my analysis on the stock prices of NVIDIA Corporation (NVDA), Advanced Micro Devices, Inc. (AMD), and Rivian Automotive, Inc. (RIVN). 
